@@ -40,6 +40,10 @@ This project implements automated obstacle detection and collision avoidance log
 | **Servo `GND` (Ground)** | `GND` | Black |
 | **Servo `PWM` (Signal)** | `Pin 10` | Orange |
 
+
+<img width="827" height="514" alt="image" src="https://github.com/user-attachments/assets/b78e5630-8807-485c-ac76-05e9fe14328d" />
+
+
 ---
 
 ## 💻 Source Code (`sketch.ino`)
